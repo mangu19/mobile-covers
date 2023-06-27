@@ -6,7 +6,7 @@ export default function Body() {
     <>
         <h2 class="display-6">Creative Printed Mobile Covers</h2>
      <img src={title} class="img-fluid" alt="..."></img>
-    
+    <p>Select your Mobile Brand</p>
     </>
   )
 }
