@@ -1,0 +1,23 @@
+{
+  "hosting": {
+   
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ],
+     "site": "sadguru-mobile-covers",
+
+    "public": "public"
+    
+  }
+  
+   
+  
+}
